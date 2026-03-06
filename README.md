@@ -12,4 +12,4 @@ y CSS3 para el diseño, bajo los parámetros dados en el brief. Fue crucial el u
 de flexbox y media queries para la asignación de reglas de diseño, frente a los
 tamaños de dispositivo.
 
-Enlace a GitHub: https://sebasss2105cam.github.io/web_project_potrfolio_es/
+Enlace a GitHub: https://sebasss2105cam.github.io/web_project_portfolio_es/
